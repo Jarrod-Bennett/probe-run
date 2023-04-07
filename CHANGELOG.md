@@ -10,7 +10,12 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 [#389]: https://github.com/knurling-rs/probe-run/pull/389
 
-## [v0.3.6] - 2023-01-23
+## [v0.3.8] - 2023-04-07
+
+- [#xxx] Release `probe-run v0.3.8`
+- [#393] Update to `defmt-decoder v0.3.6`
+
+## [v0.3.7] - 2023-01-23
 
 - [#xxx] Release `probe-run v0.3.7`
 - [#385] Update snapshot tests and test stack canary
